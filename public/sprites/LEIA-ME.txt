@@ -1,0 +1,11 @@
+Sprites do Legacy of Empire
+
+personagens/  Uma folha (sprite sheet) por personagem, quadros de 128 x 128 px (cavaleiro: 176 x 176 px), 8 colunas.
+              Linhas: 1 parado, 2 andando, 3 atacando, 4 morrendo.
+              Aldeão: 1 parado, 2 andando, 3 cortando madeira, 4 minerando, 5 construindo, 6 coletando comida, 7 morrendo.
+              Todos olham para a direita; o jogo espelha para a esquerda.
+              A cor azul vira vermelha automaticamente para o time inimigo.
+construcoes/  Uma imagem por construção, fundo transparente, visão isométrica.
+natureza/     Árvores, minas e pedreira.
+
+Os telhados mudam de cor por era dentro do jogo (palha, ardósia, azul).
